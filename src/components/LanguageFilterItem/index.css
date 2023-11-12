@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.filter_button {
+  border: 0px;
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 16px;
+  margin: 8px;
+}
+
+.active_button {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+}
